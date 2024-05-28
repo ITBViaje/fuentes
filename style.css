@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+  background-color: rgb(30, 30, 35);
+}
+b{
+  color: rgb(5, 95, 13);
+}
+.caja {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  border-radius: 1rem;
+  background-color: #6b7280;
+}
+.font-fa p{
+  font-family: "Indie Flower";
+  font-size: 32px;
+}
+.font-we p{
+  font-weight: bold;
+  font-size: 32px;
+}
+.font-style p{
+  font-style: italic;
+  font-size: 32px;
+}
+.letter-spacing p{
+  letter-spacing: 20px;
+}
+.word-spacing p{
+  word-spacing: 15px;
+}
+.line-height p{
+  line-height: 55px;
+}
+.text-align p{
+  text-align: center;
+}
+.text-transform p{
+  text-transform: uppercase;
+}
+.text-decoration p{
+  text-decoration:underline;
+}
